@@ -36,6 +36,20 @@ Koleksi sertifikat profesional yang dicantumkan dalam bagian sertifikasi portofo
 
 ---
 
+## 🖥️ Preview Tampilan Website
+
+Berikut adalah beberapa tangkapan layar (*screenshot*) preview tampilan antarmuka halaman website portofolio:
+
+| 1. Home / Hero Section | 2. About Me Section |
+| :---: | :---: |
+| <img src="img/github/Macbook-Air-127.0.0.1.png" alt="Home Section" width="100%" style="border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/> | <img src="img/github/Macbook-Air-127.0.0.1 (1).png" alt="About Me Section" width="100%" style="border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/> |
+| **3. Skills Section** | **4. Project Showcase Section** |
+| <img src="img/github/Macbook-Air-127.0.0.1 (2).png" alt="Skills Section" width="100%" style="border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/> | <img src="img/github/Macbook-Air-127.0.0.1 (3).png" alt="Projects Section" width="100%" style="border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/> |
+| **5. Certification & Sosmed** | |
+| <img src="img/github/Macbook-Air-127.0.0.1 (4).png" alt="Certification and Social Media" width="100%" style="border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/> | |
+
+---
+
 ## 📝 Deskripsi Singkat
 
 **Portofolioku** adalah platform portofolio web berbasis front-end statis yang dirancang secara estetis untuk merepresentasikan profil profesional, keahlian pemrograman, riwayat proyek akademis/pribadi, dan pencapaian sertifikasi dari Eka Syarif Maulana. Dengan memadukan desain responsif modern, animasi transisi scroll, dan modal galeri interaktif, website ini memberikan pengalaman pengguna (UX) yang sangat mulus dan menarik bagi para calon perekrut maupun rekan kolaborator di industri teknologi informasi.
